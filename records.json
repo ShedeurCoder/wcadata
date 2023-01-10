@@ -1,0 +1,254 @@
+{
+    "wr": {
+        "cup": {
+            "hundred": "1.32 Howdy <i class='flag flag-ph'></i>",
+    
+            "two": "3.79 Howdy <i class='flag flag-ph'></i>",
+    
+            "twofifty": "4.96 Howdy <i class='flag flag-ph'></i>",
+    
+            "three": "5.71 Howdy <i class='flag flag-ph'></i>",
+    
+            "four": "9.85 Howdy <i class='flag flag-ph'></i>",
+    
+            "five": "27.46 Zyna <i class='flag flag-ru'></i>",
+    
+            "sevenfifty": "N/A",
+
+            "liter": "1:06.07 Shedeur <i class='flag flag-ph'></i>"
+        },
+        "bottle": {
+            "hundred": "2.56 Howdy <i class='flag flag-ph'></i>",
+    
+            "two": "4.69 Shedeur <i class='flag flag-ph'></i>",
+    
+            "twofifty": "4.32 Howdy <i class='flag flag-ph'></i>",
+    
+            "three": "13.26 Zyna <i class='flag flag-ru'></i>",
+    
+            "four": "7.41 Howdy <i class='flag flag-ph'></i>",
+    
+            "five": "10.96 Howdy <i class='flag flag-ph'></i>",
+    
+            "sevenfifty": "N/A",
+    
+            "liter": "N/A"
+        }
+    },
+    "afr": {
+        "cup": {
+            "hundred": "N/A",
+    
+            "two": "N/A",
+    
+            "twofifty": "N/A",
+    
+            "three": "N/A",
+    
+            "four": "N/A",
+    
+            "five": "N/A",
+    
+            "sevenfifty": "N/A",
+    
+            "liter": "N/A"
+        },
+        "bottle": {
+            "hundred": "N/A",
+    
+            "two": "N/A",
+    
+            "twofifty": "N/A",
+    
+            "three": "N/A",
+    
+            "four": "N/A",
+    
+            "five": "N/A",
+    
+            "sevenfifty": "N/A",
+    
+            "liter": "N/A"
+        }
+    },
+    "asr": {
+        "cup": {
+            "hundred": "1.32 Howdy <i class='flag flag-ph'></i>",
+    
+            "two": "3.79 Howdy <i class='flag flag-ph'></i>",
+    
+            "twofifty": "4.96 Howdy <i class='flag flag-ph'></i>",
+    
+            "three": "5.71 Howdy <i class='flag flag-ph'></i>",
+    
+            "four": "9.85 Howdy <i class='flag flag-ph'></i>",
+    
+            "five": "N/A",
+    
+            "sevenfifty": "N/A",
+    
+            "liter": "1:06.07 Shedeur <i class='flag flag-ph'></i>"
+        },
+        "bottle": {
+            "hundred": "2.56 Howdy <i class='flag flag-ph'></i>",
+    
+            "two": "4.69 Shedeur <i class='flag flag-ph'></i>",
+    
+            "twofifty": "4.32 Howdy <i class='flag flag-ph'></i>",
+    
+            "three": "N/A",
+    
+            "four": "7.41 Howdy <i class='flag flag-ph'></i>",
+    
+            "five": "10.96 Howdy <i class='flag flag-ph'></i>",
+    
+            "sevenfifty": "N/A",
+    
+            "liter": "N/A"
+        }
+    },
+    "eur": {
+        "cup": {
+            "hundred": "3.15 Zyna <i class='flag flag-ru'></i>",
+    
+            "two": "4.64 Ronan <i class='flag flag-ie'></i>",
+    
+            "twofifty": "11.49 Zyna <i class='flag flag-ru'></i>",
+    
+            "three": "10.88 Zyna <i class='flag flag-ru'></i>",
+    
+            "four": "18.26 Zyna <i class='flag flag-ru'></i>",
+    
+            "five": "27.46 Zyna <i class='flag flag-ru'></i>",
+    
+            "sevenfifty": "N/A",
+    
+            "liter": "N/A"
+        },
+        "bottle": {
+            "hundred": "5.30 Zyna <i class='flag flag-ru'></i>",
+    
+            "two": "N/A",
+    
+            "twofifty": "N/A",
+    
+            "three": "13.26 Zyna <i class='flag flag-ru'></i>",
+    
+            "four": "N/A",
+    
+            "five": "29.97 Tiernan <i class='flag flag-ie'></i>",
+    
+            "sevenfifty": "N/A",
+    
+            "liter": "N/A"
+        }
+    },
+    "ocr": {
+        "cup": {
+            "hundred": "N/A",
+    
+            "two": "N/A",
+    
+            "twofifty": "N/A",
+    
+            "three": "N/A",
+    
+            "four": "N/A",
+    
+            "five": "N/A",
+    
+            "sevenfifty": "N/A",
+    
+            "liter": "N/A"
+        },
+        "bottle": {
+            "hundred": "N/A",
+    
+            "two": "N/A",
+    
+            "twofifty": "N/A",
+    
+            "three": "N/A",
+    
+            "four": "N/A",
+    
+            "five": "N/A",
+    
+            "sevenfifty": "N/A",
+    
+            "liter": "N/A"
+        }
+    },
+    "nar": {
+        "cup": {
+            "hundred": "N/A",
+    
+            "two": "12.18 zelocuber <i class='flag flag-ca'></i>",
+    
+            "twofifty": "N/A",
+    
+            "three": "N/A",
+    
+            "four": "N/A",
+    
+            "five": "N/A",
+    
+            "sevenfifty": "N/A",
+    
+            "liter": "N/A"
+        },
+        "bottle": {
+            "hundred": "N/A",
+    
+            "two": "N/A",
+    
+            "twofifty": "N/A",
+    
+            "three": "N/A",
+    
+            "four": "N/A",
+    
+            "five": "N/A",
+    
+            "sevenfifty": "N/A",
+    
+            "liter": "N/A"
+        }
+    },
+    "sar": {
+        "cup": {
+            "hundred": "N/A",
+    
+            "two": "N/A",
+    
+            "twofifty": "N/A",
+    
+            "three": "N/A",
+    
+            "four": "N/A",
+    
+            "five": "N/A",
+    
+            "sevenfifty": "N/A",
+    
+            "liter": "N/A"
+        },
+        "bottle": {
+            "hundred": "N/A",
+    
+            "two": "N/A",
+    
+            "twofifty": "N/A",
+    
+            "three": "N/A",
+    
+            "four": "N/A",
+    
+            "five": "N/A",
+    
+            "sevenfifty": "N/A",
+    
+            "liter": "N/A"
+        }
+    }
+}
